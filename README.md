@@ -12,5 +12,5 @@
 
 ## Grinding on:
 
-### 1. [Institut Tekonologi Del](https://www.del.ac.id/) | [Information System](https://www.del.ac.id/?page_id=3534) | Laguboti `2024
+### 1. [Institut Tekonologi Del](https://www.del.ac.id/) | [Information System](https://www.del.ac.id/?page_id=3534) | Laguboti `2024`
 
