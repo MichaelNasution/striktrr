@@ -1,6 +1,6 @@
 # Yo!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Born+To+Code;Second+line+of+text)](https://git.io/typing-svg)
 
 [![Typing SVG](https://holopin.me/michaelnasution)](https://holopin.io/@michaelnasution)
 
